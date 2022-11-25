@@ -1,1 +1,1 @@
-document.getElementsByName('btnK')[1].value = 'hola'
+document.getElementsByName('btnK')[1].value = 'hola';
