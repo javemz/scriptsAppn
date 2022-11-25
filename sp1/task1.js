@@ -1,0 +1,1 @@
+document.getElementsByName('btnK')[1].value = 'hola'
